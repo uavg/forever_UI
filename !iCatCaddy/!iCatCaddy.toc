@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: |cff0088ff!iCatCaddy|r
+## IconTexture: Interface\Icons\Ability_Druid_CatForm
+## Author: Nixie
+## Notes: Minimal Addons for WoW Forever.
+## SavedVariables: DCP_Saved
+## SavedVariablesPerCharacter: DCP_SavedPerCharacter
+
+Load.xml

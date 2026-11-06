@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+<Script  file="Fonts.lua"/>
+<Script  file="autobots.lua"/>
+<Script  file="Miscs.lua"/>
+<Script  file="Launch.lua"/>
+<Script  file="MovableFrames.lua"/>
+
+</Ui>
